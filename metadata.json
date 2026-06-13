@@ -1,0 +1,6 @@
+{
+  "name": "Gestion Syndic Pro",
+  "description": "Plateforme SaaS moderne pour la gestion de syndics d'immeubles, la comptabilité de copropriété, le suivi de maintenance et les assemblées générales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
